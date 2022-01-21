@@ -1,7 +1,7 @@
 import _ from 'lodash'
 import axios from 'axios'
 import moment from 'moment'
-import { basePath, options } from "./datainput.js"
+import { basePath, options } from "./data/datainput.js"
 
 const batchesOf = 10
 
